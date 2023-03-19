@@ -4,5 +4,6 @@ public class mll {
         int a = 10;
         double oao = 10.0;
         float o = 10;
+        System.out.println("print sth");
     }
 }
